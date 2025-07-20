@@ -6,7 +6,7 @@
 ---
 
 ## 📊 Dashboard Preview
-https://github.com/ahmadyase1234/gene-expression-and-cancer-analysis/blob/main/gene%201.PNG">
+img src="https://github.com/ahmadyase1234/gene-expression-and-cancer-analysis/blob/main/gene%201.PNG" width="1000"">
 
 ---
 
