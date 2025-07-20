@@ -1,7 +1,7 @@
 # 🧬 Gene Expression & Cancer Analysis Dashboard – Excel Dashboard Project
 
 **🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
-**📥 [Download the Excel File](https://github.com/your-username/cancer-gene-expression-dashboard/raw/main/Gene_Cancer_Analysis.xlsx)**  
+**📥 [Download the Excel File](https://github.com/ahmadyase1234/gene-expression-and-cancer-analysis/blob/main/Gene%20Expression%20%26%20Cancer%20Analysis%20Dashboard.xlsx)**  
 
 ---
 
